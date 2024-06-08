@@ -25,4 +25,4 @@ A AI é uma realidade que permite ir além.
 ```
 
 ## Acesse o E-book clicando no link abaixo.
-
+https://www.canva.com/design/DAGHguK9E-g/u3rSF6BxJnCk83W51s4PLQ/view?utm_content=DAGHguK9E-g&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel
