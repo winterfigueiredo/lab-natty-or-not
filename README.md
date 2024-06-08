@@ -1,8 +1,10 @@
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+Readme.
+
+## Paragual e o guarda ;)
 
 ## 📒 Descrição
-Um e-book de 13 páginas direcionado a crianças de até 3 anos que falas sobre a importância de obedecer aos pais.
+Um e-book de 13 páginas direcionado a crianças de até 3 anos que falas sobre a importância de obedecer aos pais. Desenvolvido a partir de uma história criada para o meu filho que tem dois anos.
 
 ## 🤖 Tecnologias Utilizadas
 - ChatGPT para criação dos roteiros;
